@@ -2,7 +2,7 @@
 kuilometers = float(input(what is the value"))
 
 # conversion factor
-conv_fac = 0.621371
+setup factor
 
 # calculate miles
 miles = kilometers * conv_fac
