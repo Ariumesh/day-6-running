@@ -1,3 +1,4 @@
-print('Python is powerful')
+print('python is object porientation language')
+print('python is interputer language')
 
 # Output: Python is powerful:
