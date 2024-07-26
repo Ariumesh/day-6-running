@@ -1,5 +1,5 @@
 # Taking kilometers input from the user
-kilometers = float(input("Enter value in kilometers: "))
+kuilometers = float(input(what is the value"))
 
 # conversion factor
 setup factor
